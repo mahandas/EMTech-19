@@ -9,8 +9,8 @@ user sees messages in the base language.
 
 Youtube Link - https://www.youtube.com/watch?v=qIXZfg3VyG8&feature=youtu.be
 
-![](AL-Fred.gif)
+![](AL-fred.gif)
 
 ![](Age_Detection.gif)
 
-![](CRoss-Talk.gif)
+![](CRoss-talk.gif)
