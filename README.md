@@ -10,6 +10,10 @@ user sees messages in the base language with an AI based age restricted access t
 Youtube Link - https://www.youtube.com/watch?v=qIXZfg3VyG8&feature=youtu.be
 
 
+# Demo:
+---------------------------------------------------------------------------------------------
+![](CRoss-talk.gif)
+---------------------------------------------------------------------------------------------
 
 We extend our full credits to the following :
 
