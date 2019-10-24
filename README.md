@@ -12,7 +12,7 @@ Youtube Link - https://www.youtube.com/watch?v=qIXZfg3VyG8&feature=youtu.be
 
 # Demo:
 ---------------------------------------------------------------------------------------------
-![](CRoss-talk.gif)
+![](ezgif.com-gif-maker.gif)
 ---------------------------------------------------------------------------------------------
 
 We extend our full credits to the following :
